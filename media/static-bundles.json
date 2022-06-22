@@ -1152,9 +1152,15 @@
     },
     {
       "files": [
-        "css/stories/stories-landing.scss"
+        "css/stories/stories-shared.scss"
       ],
-      "name": "mozilla-stories-landing"
+      "name": "mozilla-stories-shared"
+    },
+    {
+      "files": [
+        "css/stories/stories-article.scss"
+      ],
+      "name": "mozilla-stories-article"
     }
   ],
   "js": [
